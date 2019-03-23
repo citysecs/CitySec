@@ -8,3 +8,4 @@
 | Oulu | [Oulusec](https://oulusec.fi/)
 | Tallinn | [TallinnSec](https://www.meetup.com/tallinnsec/)
 | Tampere | [TreSec](https://www.meetup.com/TreSec/)
+| Turku | [TurkuSec](https://turkusec.fi/)
