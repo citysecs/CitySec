@@ -6,6 +6,6 @@
 | Helsinki | [HelSec](https://www.meetup.com/HelSec/)
 | Jyväskylä | [JySec](https://jysec.fi/)
 | Oulu | [Oulusec](https://oulusec.fi/)
-| Tallinn | [TallinnSec](https://www.meetup.com/tallinnsec/)
+| Tallinn | [TallinnSec](https://www.tallinnsec.ee)
 | Tampere | [TreSec](https://www.meetup.com/TreSec/)
 | Turku | [TurkuSec](https://turkusec.fi/)
