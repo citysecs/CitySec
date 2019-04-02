@@ -4,7 +4,7 @@
 
 # Communication platform
 
-CitySec Mattermost: [https://mm.io.fi/](https://mm.io.fi/)
+CitySec Mattermost: [https://citysec.disobey.fi/](https://citysec.disobey.fi/)
 
 # Citysec groups
 
