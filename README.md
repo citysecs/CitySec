@@ -10,7 +10,7 @@ CitySec Mattermost: [https://citysec.disobey.fi/](https://citysec.disobey.fi/)
 
 |City|  Homepage / Meetup group|
 | --- |--- |
-| Helsinki | [HelSec](https://www.meetup.com/HelSec/)
+| Helsinki | [HelSec](https://helsec.fi)
 | Seinäjoki-Vaasa | [HäjySec](https://www.hajysec.fi)
 | Jyväskylä | [JySec](https://jysec.fi/)
 | Oulu | [Oulusec](https://oulusec.fi/)
