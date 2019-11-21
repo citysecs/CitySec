@@ -9,12 +9,13 @@ CitySec Mattermost: [https://citysec.disobey.fi/](https://citysec.disobey.fi/)
 
 # Citysec groups
 
-| City         | Homepage / Meetup group                          |
-| ------------ | ------------------------------------------------ |
-| Helsinki     | [HelSec](https://www.meetup.com/HelSec/)         |
-| Jyväskylä    | [JySec](https://jysec.fi/)                       |
-| Oulu         | [Oulusec](https://oulusec.fi/)                   |
-| shadowHelSec | [shadowHelSec](https://twitter.com/shadowHelSec) |
-| Tallinn      | [TallinnSec](https://www.tallinnsec.ee)          |
-| Tampere      | [TreSec](https://www.meetup.com/TreSec/)         |
-| Turku        | [TurkuSec](https://turkusec.fi/)                 |
+| City            | Homepage / Meetup group                          |
+| --------------- | ------------------------------------------------ |
+| Helsinki        | [HelSec](https://helsec.fi)                      |
+| Seinäjoki-Vaasa | [HäjySec](https://www.hajysec.fi)                |
+| Jyväskylä       | [JySec](https://jysec.fi/)                       |
+| Oulu            | [Oulusec](https://oulusec.fi/)                   |
+| shadowHelSec    | [shadowHelSec](https://twitter.com/shadowHelSec) |
+| Tallinn         | [TallinnSec](https://www.tallinnsec.ee)          |
+| Tampere         | [TreSec](https://www.meetup.com/TreSec/)         |
+| Turku           | [TurkuSec](https://turkusec.fi/)                 |
