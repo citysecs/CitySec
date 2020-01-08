@@ -14,6 +14,7 @@ CitySec Mattermost: [https://citysec.disobey.fi/](https://citysec.disobey.fi/)
 | Helsinki        | [HelSec](https://helsec.fi)                      |
 | Seinäjoki-Vaasa | [HäjySec](https://www.hajysec.fi)                |
 | Jyväskylä       | [JySec](https://jysec.fi/)                       |
+| Kuopio          | [KuoSec](https://kuosec.fi/)                     |
 | Oulu            | [Oulusec](https://oulusec.fi/)                   |
 | shadowHelSec    | [shadowHelSec](https://twitter.com/shadowHelSec) |
 | Tallinn         | [TallinnSec](https://www.tallinnsec.ee)          |
