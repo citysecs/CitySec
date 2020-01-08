@@ -19,3 +19,4 @@ CitySec Mattermost: [https://citysec.disobey.fi/](https://citysec.disobey.fi/)
 | Tallinn         | [TallinnSec](https://www.tallinnsec.ee)          |
 | Tampere         | [TreSec](https://www.meetup.com/TreSec/)         |
 | Turku           | [TurkuSec](https://turkusec.fi/)                 |
+| Kuopio          | [KuoSec](https://kuosec.fi/)
