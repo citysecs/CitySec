@@ -15,7 +15,7 @@ Calendar contains events from groups: HelSec, HäjySec, JySec, shadowHelsec, Tal
 | Oulu            | [Oulusec](https://oulusec.fi/)                   |
 | shadowHelSec    | [shadowHelSec](https://twitter.com/shadowHelSec) |
 | Tallinn         | [TallinnSec](https://www.tallinnsec.ee)          |
-| Tampere         | [TreSec](https://www.meetup.com/TreSec/)         |
+| Tampere         | [TreSec](https://www.tammersec.fi)               |
 | Turku           | [TurkuSec](https://turkusec.fi/)                 |
 
 # Communication platform
