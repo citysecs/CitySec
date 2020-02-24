@@ -5,7 +5,7 @@ Calendar contains events from groups: HelSec, HäjySec, JySec, shadowHelsec, Tal
 
 # What
 
-> CitySec is an unaffiliated collection of informal meetups for like-minded security professionals. CitySec groups meet to discuss topics of interest in a non-work, non-vendor setting; preferably while drinking.
+> CitySec is an unaffiliated collection of informal meetups for like-minded security professionals. CitySec groups meet to discuss topics of interest in a non-work, non-vendor setting.
 - https://www.reddit.com/r/netsec/wiki/meetups/citysec
 
 # Citysec groups
