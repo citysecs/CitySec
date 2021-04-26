@@ -1,5 +1,5 @@
 ![citysec](CitySec_ColdNorth_Logo_no bg.png)
-# About CitySec
+
 
 CitySec covers all the local CitySec communities across Nordics and Baltics. 
 
