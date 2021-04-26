@@ -3,7 +3,7 @@
 CitySec covers all the local CitySec communities across Nordics and Baltics. 
 
 
-# Citysec groups
+# CitySec groups
 
 | City            | Homepage / Meetup group                          |
 | --------------- | ------------------------------------------------ |
