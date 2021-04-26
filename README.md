@@ -1,7 +1,7 @@
 ![citysec](CitySec_ColdNorth_Logo_no bg.png)
 
 
-CitySec covers all the local CitySec communities across Nordics and Baltics. 
+CitySec covers all the local CitySec communities across Nordics and Baltics. Join the community & conversation here on CitySec Mattermost: [https://citysec.disobey.fi/](https://citysec.disobey.fi/)
 
 
 # CitySec groups
@@ -18,9 +18,6 @@ CitySec covers all the local CitySec communities across Nordics and Baltics.
 | Tampere         | [TammerSec](https://tammersec.fi/)               |
 | Turku           | [TurkuSec](https://turkusec.fi/)                 |
 
-# Communication platform
-
-CitySec Mattermost: [https://citysec.disobey.fi/](https://citysec.disobey.fi/)
 
 # Code of Ethics
 
