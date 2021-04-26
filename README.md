@@ -1,6 +1,6 @@
 # About CitySec
 
-CitySec covers all the local, Nordic CitySec communities across Finland. 
+CitySec covers all the local CitySec communities across Nordics and Baltics. 
 
 
 # Citysec groups
