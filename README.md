@@ -1,3 +1,4 @@
+![citysec](CitySec_ColdNorth_Logo_light.png)
 # About CitySec
 
 CitySec covers all the local CitySec communities across Nordics and Baltics. 
