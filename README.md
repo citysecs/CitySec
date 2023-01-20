@@ -11,9 +11,10 @@ CitySec covers all the local CitySec communities across Nordics and Baltics. Joi
 | Helsinki        | [HelSec](https://helsec.fi)                      |
 | Seinäjoki-Vaasa | [HäjySec](https://www.hajysec.fi)                |
 | Jyväskylä       | [JySec](https://jysec.fi/)                       |
-| Joensuu         | [JoeSec](https://joesec-fi.github.io/)
+| Joensuu         | [JoeSec](https://joesec-fi.github.io/)           |
 | Kuopio          | [KuoSec](https://kuosec.fi/)                     |
 | Kymenlaakso     | [KymiSec](https://twitter.com/KymiSec)           |
+| Lahti           | [LahtiSec](https://lahtisec.fi).                 |
 | Oulu            | [Oulusec](https://oulusec.fi/)                   |
 | ShadowHelSec    | [shadowHelSec](https://twitter.com/shadowHelSec) |
 | Tallinn         | [TallinnSec](https://www.tallinnsec.ee)          |
