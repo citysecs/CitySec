@@ -20,7 +20,7 @@ CitySec covers all the local CitySec communities across Nordics and Baltics. Joi
 | Tallinn         | [TallinnSec](https://www.tallinnsec.ee)          |
 | Tampere         | [TammerSec](https://tammersec.fi/)               |
 | Turku           | [TurkuSec](https://turkusec.fi/)                 |
-| Saimaa          | [SaimaaSec](https://twitter.com/saimaasec)       |
+| Lappeenranta    | [SaimaaSec](https://saimaasec.com)               |
 
 
 # Code of Ethics
