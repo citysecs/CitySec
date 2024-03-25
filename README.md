@@ -17,7 +17,6 @@ CitySec covers all the local CitySec communities across Nordics and Baltics. Joi
 | Lahti           | [LahtiSec](https://lahtisec.fi)                  |
 | Oulu            | [Oulusec](https://oulusec.fi/)                   |
 | ShadowHelSec    | [shadowHelSec](https://twitter.com/shadowHelSec) |
-| Tallinn         | [TallinnSec](https://www.tallinnsec.ee)          |
 | Tampere         | [TammerSec](https://tammersec.fi/)               |
 | Turku           | [TurkuSec](https://turkusec.fi/)                 |
 | Lappeenranta    | [SaimaaSec](https://saimaasec.com)               |
