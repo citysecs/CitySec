@@ -15,6 +15,7 @@ CitySec covers all the local CitySec communities across Nordics and Baltics.
 | Kymenlaakso     | [KymiSec](https://twitter.com/KymiSec)           |
 | Lahti           | [LahtiSec](https://lahtisec.fi)                  |
 | Oulu            | [Oulusec](https://oulusec.fi/)                   |
+| Rovaniemi       | [Porosec](https://porosec.fi/)                   |
 | ShadowHelSec    | [shadowHelSec](https://twitter.com/shadowHelSec) |
 | Tampere         | [TammerSec](https://tammersec.fi/)               |
 | Turku           | [TurkuSec](https://turkusec.fi/)                 |
